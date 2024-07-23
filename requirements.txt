@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+mysql_connector_repackaged==0.3.1
+pandas==2.2.2
+selenium==4.23.0
+SQLAlchemy==2.0.30
